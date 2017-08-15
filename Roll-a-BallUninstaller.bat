@@ -27,7 +27,7 @@ cd ..
 echo Deleting download folder...
 rmdir Roll-a-Ball-master
 cd %USERPROFILE%/Roll-a-Ball
-move HorrorGame1Roll-a-Ball.bat %USERPROFILE%
+move Roll-a-BallUninstaller.bat %USERPROFILE%
 cd ..
 echo Deleting file folder...
 rmdir Roll-a-Ball
